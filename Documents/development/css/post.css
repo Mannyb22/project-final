@@ -1,0 +1,60 @@
+form {
+  border: 7px dotted gray;
+}
+header {
+  background-color: black;
+  margin: -8px;
+}
+.message2 {
+  text-decoration: underline;
+  color: white;
+  font-size: 16px;
+  text-align: right;
+  margin: -8px;
+  font-family: "Montserrat", Arial, sans-serif;
+  font-weight: bold;
+}
+.message1 {
+  text-decoration: none;
+  color: white;
+  font-size: 16px;
+  float: left;
+  font-family: "Montserrat", Arial, sans-serif;
+  font-weight: bold;
+}
+.logout-redirect{
+  padding: 14px 16px;
+  color: white;
+  float: right;
+}
+.message-redirect{
+  color: white;
+  padding: 14px 16px;
+  margin-left: 1250px;
+}
+input{
+  width: 350px;
+  height: 40px;
+  border-radius: 20px;
+  border-style: groove;
+}
+
+input[type="file"]{
+  border-radius: none;
+  margin-left: 10px;
+}
+input[type="submit"]{
+  height: 40px;
+}
+img {
+  position: relative;
+  height: 100px;
+  margin: 10px ;
+
+}
+.label{
+font-size: 15px;
+}
+.label2 {
+  margin-left: 10px;
+}
